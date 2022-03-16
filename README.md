@@ -1,9 +1,9 @@
 ### Hey there 👋, < good to have you here! />
 
 
-<!--**codyBiem17/codyBiem17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!--**codyBiem17/codyBiem17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🌱 I’m currently learning and working with web technologies such as but not limited to HTML/CSS, JavaScript, React, Redux, Python, Azure, Linux
 
