@@ -1,6 +1,6 @@
 ### Hey there 👋, < good to have you here! />
 
-<!--
+
 **codyBiem17/codyBiem17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about frontend development first, then Azure cloud service
 - 📫 How to reach me: Reach me here on [Github](https://github.com/codyBiem17) and [LinkedIn](https://www.linkedin.com/in/bellomaryam)
 - ⚡ Fun fact: Watching and trying out recipes, Surfing the internet for just about anything, love to share knowledge; so I tell stories with my technical writing --> you can read some of my writings on [Medium](https://medium.com/@maryam_b)
--->
