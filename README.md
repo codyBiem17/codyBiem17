@@ -11,7 +11,7 @@ HTML/CSS, JavaScript, React, Redux, Python, Azure, Linux, Git, Github
 - 👯 I’m looking to collaborate with a result-driven team/individual on either 
 frontend or Cloud Computing projects
 
-- 🤔 I’m looking for help in in-depth understanding of Linux, Networking and Cloud Computing
+- 🤔 I’m looking for help in core understanding of Linux, Networking and Cloud Computing
 
 - 💬 Ask me about frontend development first, then Azure cloud service
 
