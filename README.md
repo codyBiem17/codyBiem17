@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🌱 I’m currently learning, advancing and working with web technologies such as but not limited to
-HTML/CSS, JavaScript, React, Redux, Python, Azure, Linux, Git, Github
+ HTML/CSS, JavaScript, React, Redux, Python, Azure, Linux, Git, Github
 
 - 👯 I’m looking to collaborate with a result-driven team/individual on either 
 frontend or Cloud Computing projects
