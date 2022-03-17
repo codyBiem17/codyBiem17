@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started: -->
 
-- 🌱 I’m currently learning and working with web technologies such as but not limited to HTML/CSS,
+- 🌱 I’m currently learning, advancing and working with web technologies such as but not limited to HTML/CSS,
 JavaScript, React, Redux, Python, Azure, Linux, Git, Github
 
-- 👯 I’m looking to collaborate with a result-driven on frontend project and Cloud Computing area
+- 👯 I’m looking to collaborate with a result-driven team/individual on frontend and/or Cloud Computing projects
 
 - 🤔 I’m looking for help in in-depth understanding of Linux, Networking and Cloud Computing
 
