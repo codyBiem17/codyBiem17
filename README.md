@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 
 - ☁ Experienced using some AWS Sevices such as AWS EC2, VPC/Security Groups, IAM, CloudFront, S3, CloudFormation etc. I am AWS CCP certified
 
-- 👩🏼‍💻 Experienced with Linux, Bash scripting, Prometheus, CircleCI, Docker, Kubernetes
+- 👩🏼‍💻 Experienced with Linux, Bash scripting, Prometheus, CircleCI, Ansible, Docker, Kubernetes
 
 - 🤔 I’m looking for help in core understanding of Linux, Networking and Cloud Computing Services
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started: -->
 
 - 💬 Ask me about frontend development first, then Azure/AWS cloud service
 
-- 📫 How to reach me: Reach me here on [Github](https://github.com/codyBiem17) and [LinkedIn](https://www.linkedin.com/in/bellomaryam)
+- 📫 How to reach me: You can reach me on (maryambee@gmail.com) and [LinkedIn](https://www.linkedin.com/in/bellomaryam)
 
 - ⚡ Fun fact: I love my first name so I love to be called by that or 'biem', Watching and trying out recipes, Surfing the internet for just about anything,
  love to share knowledge; so I tell stories with my technical writing and
