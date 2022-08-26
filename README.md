@@ -1,19 +1,21 @@
-### Hey there <img src="https://github.com/codyBiem17/codyBiem17/blob/main/wave.gif" alt="animated waving-hand" width="30" height="30">, < My name is Maryam and my nick is biemIslam />
+### Hey there <img src="https://github.com/codyBiem17/codyBiem17/blob/main/wave.gif" alt="animated waving-hand" width="30" height="30">, < My name is Maryam and my nickname is biem />
 
 
 <!--**codyBiem17/codyBiem17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started: -->
 
-- 🌱 I’m currently learning, advancing and working with web technologies such as but not limited to
- HTML/CSS, JavaScript, React, Redux, Python, Azure, Linux, Git, Github
+- 🌱 I’m currently transitioning, learning, growing and working with Cloud Computing technology 
 
-- 👯 I’m looking to collaborate with a result-driven team/individual on either
- frontend or Cloud Computing projects
+- A meticulous Frontend developer. Experienced with web technologies such as but not limited to HTML/CSS, Boostrap, JavaScript, React, Redux
 
-- 🤔 I’m looking for help in core understanding of Linux, Networking and Cloud Computing
+- 👯 I’m looking to collaborate/work/volunteer on a project with a result-driven team/individual on Cloud Computing projects
 
-- 💬 Ask me about frontend development first, then Azure cloud service
+- ☁ Experienced using some AWS Sevices such as AWS EC2, VPC/Security Groups, IAM, CloudFront, S3, CloudFormation etc. I am AWS CCP certified
+
+- 🤔 I’m looking for help in core understanding of Linux, Networking and Cloud Computing Services
+
+- 💬 Ask me about frontend development first, then Azure/AWS cloud service
 
 - 📫 How to reach me: Reach me here on [Github](https://github.com/codyBiem17) and [LinkedIn](https://www.linkedin.com/in/bellomaryam)
 
