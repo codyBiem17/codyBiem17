@@ -13,7 +13,11 @@ Here are some ideas to get you started: -->
 
 - ☁ Experienced using some AWS Sevices such as AWS EC2, VPC/Security Groups, IAM, CloudFront, S3, CloudFormation etc. I am AWS CCP certified
 
+- 👩🏼‍💻 Experienced with Linux, Bash scripting, Prometheus, CircleCI, Docker, Kubernetes
+
 - 🤔 I’m looking for help in core understanding of Linux, Networking and Cloud Computing Services
+
+- 🎯 To learn/garner in-depth knowledge of Cloud Computing tools
 
 - 💬 Ask me about frontend development first, then Azure/AWS cloud service
 
