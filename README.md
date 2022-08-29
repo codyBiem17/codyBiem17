@@ -21,7 +21,7 @@ Here are some ideas to get you started: -->
 
 - 💬 Ask me about frontend development first, then Azure/AWS cloud service
 
-- 📫 How to reach me: You can reach me on (maryambee@gmail.com) and [LinkedIn](https://www.linkedin.com/in/bellomaryam)
+- 📫 How to reach me: You can reach me on [my official email](maryambee@gmail.com) and [LinkedIn](https://www.linkedin.com/in/bellomaryam)
 
 - ⚡ Fun fact: I love my first name so I love to be called by that or 'biem', Watching and trying out recipes, Surfing the internet for just about anything,
  love to share knowledge; so I tell stories with my technical writing and
