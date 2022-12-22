@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🌱 I’m currently transitioning, learning, growing and working with DevOps and Cloud Computing technology 
+- 🌱 I’m a Tech Enthusiast, currently transitioning, learning, growing and working with DevOps and Cloud Computing technology 
 
 - Also, a meticulous Frontend developer. Experienced with web technologies such as but not limited to HTML/CSS, Boostrap, JavaScript, React, Redux
 
