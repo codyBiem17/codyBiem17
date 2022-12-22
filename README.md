@@ -5,13 +5,13 @@
 
 Here are some ideas to get you started: -->
 
-- 🌱 I’m currently transitioning, learning, growing and working with Cloud Computing technology 
+- 🌱 I’m currently transitioning, learning, growing and working with DevOps and Cloud Computing technology 
 
-- A meticulous Frontend developer. Experienced with web technologies such as but not limited to HTML/CSS, Boostrap, JavaScript, React, Redux
+- Also, a meticulous Frontend developer. Experienced with web technologies such as but not limited to HTML/CSS, Boostrap, JavaScript, React, Redux
 
 - ☁ Experienced using some AWS Sevices such as AWS EC2, VPC/Security Groups, IAM, CloudFront, S3, CloudFormation etc. I am AWS CCP certified
 
-- 👩🏼‍💻 Experienced with Linux, Bash scripting, Prometheus, CircleCI, Ansible, Docker, Kubernetes
+- 👩🏼‍💻 I have Experience with Linux, Bash scripting, Python, Prometheus, CircleCI, Ansible, Docker, Kubernetes
 
 - 👯 I’m looking to collaborate/work/volunteer on a project with a result-driven team/individual on Cloud Computing projects
 
