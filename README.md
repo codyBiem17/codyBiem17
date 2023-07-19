@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started: -->
 
-- 🌱 I’m a Tech Enthusiast, currently transitioning, learning, growing and working with DevOps and Cloud Computing technology 
+- 🌱 I’m a Tech Enthusiast, currently transitioning, learning, growing, and working with DevOps and Cloud Computing technology 
 
-- Also, a meticulous Frontend developer. Experienced with web technologies such as but not limited to HTML/CSS, Boostrap, JavaScript, React, Redux
+- Also, a meticulous Techie. Experienced with Frontend web technologies such as but not limited to HTML/CSS, Bootstrap, JavaScript, React
 
 - ☁ Experienced using some AWS Sevices such as AWS EC2, VPC/Security Groups, IAM, CloudFront, S3, CloudFormation etc. I am AWS CCP certified
 
