@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 
 - 👩🏼‍💻 I have Experience with Linux, Bash scripting, Python, Prometheus, CircleCI, Ansible, Terraform, Docker, and Kubernetes.
 
-  - ☁ Experienced using some AWS Sevices such as AWS EC2, VPC/Security Groups, IAM, CloudFront, S3, CloudFormation etc. I am AWS CCP certified
+- ☁ Experienced using some AWS Sevices such as AWS EC2, VPC/Security Groups, IAM, CloudFront, S3, CloudFormation etc. I am AWS CCP certified
     
 - Also, experienced with Frontend web technologies such as but not limited to HTML/CSS, Bootstrap, JavaScript, React
 
