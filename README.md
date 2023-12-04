@@ -15,11 +15,9 @@ Here are some ideas to get you started: -->
 
 - 👯 I’m looking to collaborate/work/volunteer on a project with a result-driven team/individual on Cloud Computing projects
 
-- 😊 I’m looking for help in a full-time role, internships/entry-level opportunities.
-  
-- 💼 Job interests: DevOps Engineer, Cloud Engineer.
+- 💼 Job interests: I’m seeking a full-time role, internships/entry-level opportunities as a DevOps Engineer, or Cloud Engineer.
 
-- 🎯 To learn/garner in-depth knowledge of DevOps/Cloud Computing tools
+- 🎯 Love to learn/advance my knowledge of DevOps/Cloud Computing tools
 
 - 💬 Ask me about DevOps/Cloud Computing
 
