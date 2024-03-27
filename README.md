@@ -21,7 +21,7 @@ Here are some ideas to get you started: -->
 
 - 💬 Ask me about DevOps/Cloud Computing
 
-- 📫 How to reach me: You can reach me on [my official email](maryambee@gmail.com) and [LinkedIn](https://www.linkedin.com/in/bellomaryam). You can also [view my resume here](https://drive.google.com/file/d/1VR3Y_fZvFNbuG0p_XIUXNUU3xS2YJfM0/view?usp=sharing)
+- 📫 How to reach me: You can reach me on [my official email](maryambee.miji@gmail.com) and [LinkedIn](https://www.linkedin.com/in/bellomaryam). You can also [view my resume here](https://drive.google.com/file/d/1VR3Y_fZvFNbuG0p_XIUXNUU3xS2YJfM0/view?usp=sharing)
 
 - ⚡ Fun fact: I love my first name so I love to be called by that or MY NICKNAME 'biem', love watching movies, watching food video recipes, Surf the internet for just about anything,
  love to share knowledge; I tell stories with my technical writing and
